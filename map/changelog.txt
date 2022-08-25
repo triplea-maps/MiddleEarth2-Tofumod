@@ -1,0 +1,79 @@
+	CHANGELOG 0.5
+	-------------
+
+Moria	 	Reduced Production from 6 to 4
+		Added 4 Fortifications
+
+N. Caves 	Increased Production from 1 to 2
+		Removed Castle
+
+S. Caves 	Increased Production from 1 to 2
+		Removed Castle
+
+N. Mirkwood	Increased Production from 1 to 3
+
+S. Mirkwood	Increased Production from 1 to 3
+
+E. Mirkwood	Increased Production from 1 to 2
+
+W. Mirkwood	Increased Production from 1 to 2
+
+E. Osg		Reduced Production from 2 to 1
+
+W. Osg		Reduced Production from 2 to 1
+
+Rivendell	Added 1 Griffon
+
+Westfold	Added 1 Light Cavalry
+
+Eastfold	Added 4 Fortifications
+
+Isengard	Added 4 Fortifications
+
+Lefnui		Removed 1 Galleon
+
+S.Gondor	Removed 1 Galleon
+
+Andrast		Removed 1 Temple Guard and 1 Spearman
+
+Anfalas		Removed 1 Heavy Cavalry
+
+
+
+Tower		Increased Cost from 6 to 8
+		Added "isTwoHit"
+
+Castle		Added "isAA"
+
+Stabbers	Increased Cost from 1 to 2
+
+Hobbits		Changed from "Inf" to "Art"
+
+Hunter		Changed from "Art" to "Inf"
+
+Wizard		Reduced Cost from 10 to 7
+
+Tower Guard	Changed from "Inf" to "Art"
+
+Heavy Cavalry	Changed to "Art"
+
+Caravel		Reduced Cost from 6 to 5
+
+Galleon		Reduced Cost from 9 to 8
+
+Raft		Changed Attack from 1 to 0
+		Changed Defense from 1 to 0
+
+
+
+Added missing Connection "Hobbiton" - "S. Arthedain"
+Added missing connection "W. Sea Zone" - "N.W. Central Sea Zone"
+
+Removed all Cross-River-Connections, except 5.
+Added Fords for those 5.
+
+Modified baseTiles "4_1.png", "4_2.png", "4_5.png", "6_1.png".
+
+Added 5x "tower_hit.png" (Picture of damaged Tower)
+
+Added "Game Notes"

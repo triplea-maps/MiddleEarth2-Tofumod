@@ -1,0 +1,4 @@
+map_name: MiddleEarth2-Tofumod
+games:
+- {game_name: Middle Earth 2 - Tofumod, file_name: Middle Earth 2 - Tofumod 0.6.xml}
+version: 0

@@ -1,0 +1,6 @@
+Rivendell (921,265)
+Minas Tirith  (1274,1519)
+Eastfold  (994,1303)
+Barad Dur  (1881,1411)
+City of Corsairs  (900,2557)
+Moria  (863,644)
